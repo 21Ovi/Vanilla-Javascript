@@ -1,1 +1,1 @@
-# Vanilla Javascript
+# Vanilla Javascript for reference

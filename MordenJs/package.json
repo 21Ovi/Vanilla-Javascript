@@ -1,0 +1,16 @@
+{
+  "name": "mordenjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ovesh",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet": "^1.7.1",
+    "lodash": "^4.17.21",
+    "parcel": "^1.12.4"
+  }
+}
